@@ -1,71 +1,50 @@
-<h2> Hi everyone 👋 </h2>
-<!-- prettier-ignore -->
-<h3 align="left">I'm Amir Zare, A Software Data Engineer.</h3>
-<p>   ✅  +7 years of experience in Software Engineering.</p>
-<p>   ✅	Graduated with a degree in Computer Software Engineering, with a Minor in Artificial Intelligence.</p>
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="https://twitter.com/binahayat00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="binahayat00" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/binahayat00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="binahayat00" height="30" width="40" /></a>
-</p>
-<br />
+<h2>Hi, I'm Amir Zare 👋</h2>
 
-## Git History 🔥
+**AI Data Engineer · Founder of [DataLayer](https://usedatalayer.com)** · Yerevan, Armenia
+
+I build data pipelines, analytics platforms, and production LLM applications — 7+ years, from enterprise backend
+engineering in PHP and Laravel to modern data platforms (Airflow, dbt, Kafka, Flink, BigQuery) and AI systems with guardrails.
+
+- 🚀 Founder of **DataLayer**, an AI-powered analytics platform for e-commerce sellers — ranked #2 in Data Analytics and #6 among software companies in Armenia by F6S
+- 🎓 ML mentor at TUMO Labs, and I teach a weekly **[Python course on YouTube](https://www.youtube.com/@AmirZareDev)**
+- 🌐 Portfolio and case studies: **[amir-zare.com](https://amir-zare.com)**
+
+### Featured projects
+
+| Project | What it is |
+|---|---|
+| [FlowFleet](https://amir-zare.com/projects/flowfleet/) | Real-time logistics streaming: Debezium CDC → Kafka → Flink on Kubernetes, load-tested to 50k events/sec |
+| [DataLayer Evolution Agent](https://amir-zare.com/projects/datalayer-evolution-agent/) | LLM system that writes a daily growth brief from product, marketing, and lead data — live in production |
+| [Crypto Analytics Lakehouse](https://amir-zare.com/projects/crypto-analytics-lakehouse/) | Hourly Spark ingestion and a tested dbt medallion pipeline on DuckDB and BigQuery |
+| [AI Phone Assistant](https://amir-zare.com/projects/ai-phone-assistant/) | Voice agent that books appointments through seven live tools, with 1,720 tests |
+| [Cookie Cats A/B Test](https://amir-zare.com/projects/cookie-cats-ab-test/) | Rigorous analysis of a 90,189-player retention experiment |
+
+[See all projects →](https://amir-zare.com/projects/)
+
+### Tech I work with
+
+**Data:** Python · SQL · Airflow · dbt · Spark · Kafka · Flink · DuckDB · BigQuery · Snowflake
+**AI:** RAG · embeddings · multi-agent systems · LLM integration · Amazon Bedrock
+**Backend:** FastAPI · Flask · Laravel · PostgreSQL · MySQL
+**Infra:** Docker · Kubernetes · Terraform · GitHub Actions · Prometheus · Grafana
+
+### Connect
+
+[Website](https://amir-zare.com) · [LinkedIn](https://linkedin.com/in/binahayat00) · [YouTube](https://www.youtube.com/@AmirZareDev) · [Email](mailto:info@amir-zare.com)
+
+### Support my work ♥
+
+My Python course, workshops, and open-source projects are free. If they helped you,
+**[sponsor me on GitHub](https://github.com/sponsors/mrprogrammingx)** — it keeps new lessons and tools coming.
 
 <div align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com/?user=mrprogrammingx&theme=dark&border_radius=40.5&card_width=800" alt="Git Activities">
+  <img width="800" src="https://streak-stats.demolab.com/?user=mrprogrammingx&theme=dark&border_radius=24&card_width=800" alt="GitHub contribution streak">
 </div>
-<div align="center" style="margin:200px;" >
-<!--   <img width="200" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprogrammingx&size_weight=1&count_weight=1&layout=pie&theme=vision-friendly-dark"> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprogrammingx&size_weight=1&count_weight=1&layout=compact&theme=dark&border_radius=35.5" />
-<!--   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=mrprogrammingx&show_icons=false&theme=dark&count_private=true&line_height=22&border_radius=35.5" height="145px"/> -->
-</div>
-<br />
 
-## Main Skills 🥇
-
-<table width="100%" align="center" style="border: 0" text-align="center">
-  <tr>
-    <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="100" height="100" />
-    </td>
-    <td >
-      <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel" alt="Laravel" width="100" height="100" />
-    </td>
-    <td >
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="100" height="100" />
-    </td>
-    <td >
-      <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="100" height="100" />
-    </td>
-    <td >
-      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="100" height="100" />
-    </td>
-    <td >
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="100" height="100" />
-    </td>
-  </tr>
-</table>
-<h2></h2>
-<div align="center" text-align="center">
-<picture align="center" text-align="center">
+<div align="center">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="files/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="files/github-snake.svg" />
-  <img alt="github-snake" src="files/github-snake.svg" />
+  <img alt="Contribution snake animation" src="files/github-snake.svg" />
 </picture>
 </div>
-<!--
-**mrprogrammingx/mrprogrammingx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: .....
-- ⚡ Fun fact: ....
--->
-  
