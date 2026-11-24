@@ -18,6 +18,7 @@ engineering in PHP and Laravel to modern data platforms (Airflow, dbt, Kafka, Fl
 | [Crypto Analytics Lakehouse](https://amir-zare.com/projects/crypto-analytics-lakehouse/) | Hourly Spark ingestion and a tested dbt medallion pipeline on DuckDB and BigQuery |
 | [AI Phone Assistant](https://amir-zare.com/projects/ai-phone-assistant/) | Voice agent that books appointments through seven live tools, with 1,720 tests |
 | [Cookie Cats A/B Test](https://amir-zare.com/projects/cookie-cats-ab-test/) | Rigorous analysis of a 90,189-player retention experiment |
+| [Ask about Amir](https://amir-zare.com/projects/ask-about-amir/) | AI résumé assistant: browser RAG + Llama 3.3 70B on Cloudflare, every sentence cited |
 
 [See all projects →](https://amir-zare.com/projects/)
 
