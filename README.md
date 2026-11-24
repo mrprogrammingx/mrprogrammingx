@@ -1,6 +1,6 @@
 <h2>Hi, I'm Amir Zare 👋</h2>
 
-**AI Data Engineer · Founder of [DataLayer](https://usedatalayer.com)** · Yerevan, Armenia
+**AI & Data Engineer · Founder of [DataLayer](https://usedatalayer.com)** · Yerevan, Armenia
 
 I build data pipelines, analytics platforms, and production LLM applications — 7+ years, from enterprise backend
 engineering in PHP and Laravel to modern data platforms (Airflow, dbt, Kafka, Flink, BigQuery) and AI systems with guardrails.
